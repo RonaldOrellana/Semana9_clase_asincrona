@@ -7,7 +7,7 @@ namespace Ejemplo_clase_asincrona
     public class Pedido
     {
         public string Cliente { get; set; }
-        public List<string> Productos { get; set; } = new List<string>();
+        public List<string> Productos { get; set; } = new List<string>(); 
         public string DireccionEnvio { get; set; }
         public string MetodoPago { get; set; }
         public double Descuento { get; set; }

@@ -16,7 +16,7 @@ namespace Ejemplo_clase_asincrona
             builder.SetCliente("Ronald");
 
             // Paso 3: dirección
-            builder.SetDireccion("Chalatenango");
+            builder.SetDireccion("Chalatenango");  
 
             // Paso 4: método de pago
             builder.SetMetodoPago("Tarjeta");

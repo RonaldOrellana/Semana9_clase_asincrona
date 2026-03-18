@@ -6,7 +6,7 @@ namespace Ejemplo_clase_asincrona
 {
     public class PedidoBuilder
     {
-        private Pedido _pedido = new Pedido();
+        private Pedido _pedido = new Pedido(); 
 
         public PedidoBuilder SetCliente(string cliente)
         {
